@@ -12,7 +12,7 @@ int main(void)
 	long long int d;
 	float y;
 
-printf("Size of a chart: %zu byte(s)\n", (unsigned long)sizeof(f));
+printf("Size of a char: %zu byte(s)\n", (unsigned long)sizeof(f));
 printf("Size of an int: %zu byte(s)\n", (unsigned long)sizeof(r));
 printf("Size of a long int: %zu byte(s)\n", (unsigned long)sizeof(e));
 printf("size of a long long int: %zu byte(s)\n", (unsigned long)sizeof(d));
